@@ -20,11 +20,5 @@ You can also compile it by yourself. We publish a C# project written in Visual S
 
 ## Usage
 
-To auto-detect and connect with Arduino Leonardo board we used a Win32_DeviceChangeEvent.
-
-```C#
-private readonly ManagementEventWatcher _deviceChanged = new ManagementEventWatcher(new WqlEventQuery(
-                "SELECT * FROM Win32_DeviceChangeEvent WHERE EventType = 2 or EventType = 3"));
-```
 
 ## Contributing
