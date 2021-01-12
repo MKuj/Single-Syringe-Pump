@@ -5,7 +5,7 @@ Whole process and necessary parts to built a Syringe Pump device are described i
 
 The application works only on computers with Windows system.
 
-# Installation
+## Installation
 
 To run application and use Syringe Pump follow the steps:
 - Download ZIP and extract file.
@@ -22,6 +22,3 @@ You can also compile it by yourself. We publish a C# project written in Visual S
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
