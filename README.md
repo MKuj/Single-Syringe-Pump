@@ -25,7 +25,7 @@ The application was created to control the flow directly during the measurements
 
 ### Settings
 
-**Syringe**
+#### Syringe
 
 <img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
@@ -33,11 +33,11 @@ Combobox for selection of a predefined syringe loaded from csv file.
 
 The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
-**Speed**
+#### Speed
 
 Numeric UpDown control for defining the injection speed.
 
-**Bolus Mode**
+#### Bolus Mode
 
 <img align="right" width = "269" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/bolusMode.PNG">
 
