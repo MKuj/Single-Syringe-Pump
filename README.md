@@ -5,7 +5,7 @@ Whole process and necessary parts to built a Syringe Pump device are described i
 
 The application works only on computers with Windows system.
 
-<img align="right" width="240" height="342" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/Interface%20programu%201.PNG">
+<img align="right" width="240" height="342" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/MainInterface.PNG">
 
 
 ## Installation
