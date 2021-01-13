@@ -23,6 +23,12 @@ You can also compile it by yourself. We publish a C# project written in Visual S
 The pump can be used in experiments where it is necessary to use flows from 0.01 ml to 20 ml.
 The application was created to control the flow directly during the measurements.
 
+### Connection
+
+<img align="right" width = "191" height = "79" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/connectionStatus.PNG">
+
+Information about the connection status with the device. The software automatically detects Arduino Leonardo boards connected to the computer and connects to the correct one (with the syringe pump controller software installed).
+
 ### Settings
 
 #### Syringe
@@ -61,5 +67,16 @@ Moving the push element to home position. This is necessary to properly calibrat
 
 #### Move speed
 Changing resolution of stepper mottor.
+
+<img align="right" width="273" height="251" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/RunConsole2.PNG">
+
+### Start / Stop
+
+Start and stop buttons enable the liquid injection process to be started with the set parameters or stopped.
+
+
+### Run Console
+
+The panel displays information about the current progress of the process and the elapsed time.
 
 ## Contributing
