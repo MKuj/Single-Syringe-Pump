@@ -29,6 +29,20 @@ The application was created to control the flow directly during the measurements
 
 Information about the connection status with the device. The software automatically detects Arduino Leonardo boards connected to the computer and connects to the correct one (with the syringe pump controller software installed).
 
+**Change to Arduino Uno board**
+
+Proposed sytem will work on both Arduino Leonardo and Uno boards. All you need to do is change a VID and PID values in **App.config** in Visual Studio Project.
+
+```xml
+...
+  <appSettings>
+    <add key="Leonardo_VID" value="VID_2341"/>    <!--Change to your Arduino UNO VID-->
+    <add key="Leonardo_PID" value="PID_8036"/>    <!--Change to your Arduino UNO PID-->
+    ...
+  </appSettings>
+...
+```
+
 ### Settings
 
 #### Syringe
@@ -88,5 +102,3 @@ After selecting a **Add new syringe** from the Syringe Combobox list a new windo
 The controls in the **Add new syringe** window allow you to define a new syringe by entering the name, scale length (in mm) and volume. Then, using the pushing element movement buttons, set the element to the injecting start position and  press the **Set current position as start position**. 
 
 Press **OK** to add a new syringe to .csv file. Syringe Combobox will refresh and new syringe will be selected.
-
-## Contributing
