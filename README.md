@@ -23,12 +23,12 @@ You can also compile it by yourself. We publish a C# project written in Visual S
 The pump can be used in experiments where it is necessary to use flows from 0.01 ml to 20 ml.
 The application was created to control the flow directly during the measurements.
 
-<img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
-
 ### Settings
 
 #### Syringe
 Combobox for selection of a predefined syringe loaded from csv file.
+
+<img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
 The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
