@@ -29,13 +29,13 @@ The application was created to control the flow directly during the measurements
 #### Syringe
 Combobox for selection of a predefined syringe loaded from csv file.
 
+The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
+
 #### Speed
 Numeric UpDown control for defining the injection speed.
 
 #### Bolus Mode
 Button for changing to bolus mode.
-
-The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
 ### Move Panel
 The move panel contains controls for handling the position of the push element of pump.
