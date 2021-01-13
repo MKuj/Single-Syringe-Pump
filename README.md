@@ -29,19 +29,19 @@ The application was created to control the flow directly during the measurements
 
 <img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
->Combobox for selection of a predefined syringe loaded from csv file.
+Combobox for selection of a predefined syringe loaded from csv file.
 
->The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
+The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
 **Speed**
 
->Numeric UpDown control for defining the injection speed.
+Numeric UpDown control for defining the injection speed.
 
 **Bolus Mode**
 
->Button for changing from **constant flow mode** to a **bolus mode**.
+Button for changing from **constant flow mode** to a **bolus mode**.
 
->Bolus mode is an injection of a discrete amount (volume) of the solution with the chosen flow rate. The main difference between the **constant flow rate mode** and the **bolus mode** is that for the latter after the injection of a specific volume of solution the pump stops. 
+Bolus mode is an injection of a discrete amount (volume) of the solution with the chosen flow rate. The main difference between the **constant flow rate mode** and the **bolus mode** is that for the latter after the injection of a specific volume of solution the pump stops. 
 
 ### Move Panel
 The move panel contains controls for handling the position of the push element of pump.
