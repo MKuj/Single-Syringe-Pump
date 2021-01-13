@@ -37,7 +37,7 @@ Information about the connection status with the device. The software automatica
 
 Combobox for selection of a predefined syringe loaded from csv file.
 
-The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
+The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a **Add new syringe** from the Combobox list.
 
 #### Speed
 
@@ -78,5 +78,15 @@ Start and stop buttons enable the liquid injection process to be started with th
 ### Run Console
 
 The panel displays information about the current progress of the process and the elapsed time.
+
+### Add new syringe
+
+<img align="right" width="273" height="203" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/Add new syringe interface2.PNG">
+
+After selecting a **Add new syringe** from the Syringe Combobox list a new window appear. 
+
+The controls in the **Add new syringe** window allow you to define a new syringe by entering the name, scale length (in mm) and volume. Then, using the pushing element movement buttons, set the element to the injecting start position and  press the **Set current position as start position**. 
+
+Press **OK** to add a new syringe to .csv file. Syringe Combobox will refresh and new syringe will be selected.
 
 ## Contributing
