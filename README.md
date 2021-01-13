@@ -24,7 +24,6 @@ The pump can be used in experiments where it is necessary to use flows from 0.01
 The application was created to control the flow directly during the measurements.
 
 ### Settings
-<img align="left" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
 #### Syringe
 Combobox for selection of a predefined syringe loaded from csv file.
