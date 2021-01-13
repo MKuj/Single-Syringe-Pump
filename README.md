@@ -24,9 +24,10 @@ The pump can be used in experiments where it is necessary to use flows from 0.01
 The application was created to control the flow directly during the measurements.
 
 ### Settings
-<img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
 **Syringe**
+
+<img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
 Combobox for selection of a predefined syringe loaded from csv file.
 
@@ -37,6 +38,8 @@ The software use external .csv file to store a user defined syringes, so it is p
 Numeric UpDown control for defining the injection speed.
 
 **Bolus Mode**
+
+<img align="right" width = "269" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/bolusMode.PNG">
 
 Button for changing from **constant flow mode** to a **bolus mode**.
 
