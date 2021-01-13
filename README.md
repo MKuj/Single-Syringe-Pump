@@ -23,9 +23,27 @@ You can also compile it by yourself. We publish a C# project written in Visual S
 The pump can be used in experiments where it is necessary to use flows from 0.01 ml to 20 ml.
 The application was created to control the flow directly during the measurements.
 
-#### Move Panel
+### Settings
+The software use external .csv file to store a user defined syringes.
+
+<img align="left" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
+
+The settings panel consists of: 
+- Syringes Combobox  - selection of a predefined syringe 
+- Speed Numeric UpDown control - defining the injection speed 
+- Bolus Mode Button - allows you to change to bolus mode.
+
+### Move Panel
+The move panel contains controls for handling the position of the push element of pump.
+<img align="left" width="177" height="132" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/MovePanel.PNG">
 
 
+
+#### Step + / Step -
+Moving the push element forward or backward during the button is press.
+
+
+#### Start Position
 
 
 ## Contributing
