@@ -26,9 +26,10 @@ The application was created to control the flow directly during the measurements
 ### Settings
 
 #### Syringe
-Combobox for selection of a predefined syringe loaded from csv file.
 
 <img align="right" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
+
+Combobox for selection of a predefined syringe loaded from csv file.
 
 The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
