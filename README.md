@@ -66,7 +66,7 @@ Moving the push element to the start position, which is user defined when adding
 Moving the push element to home position. This is necessary to properly calibrate the pump and should be done after any unexpected shutdowns or device error when real position is different then shown in software (e.g. manually moving the push element). In other cases the device will save current position of push element in Arduino EEPROM memmory.
 
 #### Move speed
-Changing resolution of stepper mottor.
+Changing resolution of stepper motor.
 
 <img align="right" width="273" height="251" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/RunConsole2.PNG">
 
