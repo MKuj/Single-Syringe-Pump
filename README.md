@@ -26,10 +26,14 @@ The application was created to control the flow directly during the measurements
 ### Settings
 <img align="left" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
-The settings panel consists of: 
-- Syringes Combobox  - selection of a predefined syringe loaded from csv file.
-- Speed Numeric UpDown control - defining the injection speed.
-- Bolus Mode Button - allows you to change to bolus mode.
+#### Syringe
+Combobox for selection of a predefined syringe loaded from csv file.
+
+#### Speed
+Numeric UpDown control for defining the injection speed.
+
+#### Bolus Mode
+Button for changing to bolus mode.
 
 The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
