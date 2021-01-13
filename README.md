@@ -24,20 +24,19 @@ The pump can be used in experiments where it is necessary to use flows from 0.01
 The application was created to control the flow directly during the measurements.
 
 ### Settings
-The software use external .csv file to store a user defined syringes.
-
 <img align="left" width = "272" height = "133" src = "https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/SettingsPanel.PNG">
 
 The settings panel consists of: 
-- Syringes Combobox  - selection of a predefined syringe 
-- Speed Numeric UpDown control - defining the injection speed 
+- Syringes Combobox  - selection of a predefined syringe loaded from csv file.
+- Speed Numeric UpDown control - defining the injection speed.
 - Bolus Mode Button - allows you to change to bolus mode.
+
+The software use external .csv file to store a user defined syringes, so it is possible to add your own syringe by selecting a "Add new syringe" from the Combobox list.
 
 ### Move Panel
 The move panel contains controls for handling the position of the push element of pump.
+
 <img align="left" width="177" height="132" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/MovePanel.PNG">
-
-
 
 #### Step + / Step -
 Moving the push element forward or backward during the button is press.
