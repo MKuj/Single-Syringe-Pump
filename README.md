@@ -31,7 +31,7 @@ Information about the connection status with the device. The software automatica
 
 **Change to Arduino Uno board**
 
-Proposed sytem will work on both Arduino Leonardo and Uno boards. All you need to do is change a VID and PID values in **App.config** in Visual Studio Project.
+Proposed sytem will work on both Arduino Leonardo and Uno boards. All you need to do is change a VID and PID values in **App.config** in Visual Studio Project and recompile solution.
 
 ```xml
 ...
@@ -42,6 +42,7 @@ Proposed sytem will work on both Arduino Leonardo and Uno boards. All you need t
   </appSettings>
 ...
 ```
+
 
 ### Settings
 
