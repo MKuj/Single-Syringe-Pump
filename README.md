@@ -49,10 +49,9 @@ Bolus mode is an injection of a discrete amount (volume) of the solution with th
 The move panel contains controls for handling the position of the push element of pump.
 
 #### Step + / Step -
-<img align="right" width="273" height="205" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/MovePanel3.png">
-
 Moving the push element forward or backward during the button is press.
 
+<img align="right" width="273" height="205" src="https://github.com/MKuj/Single-Syringe-Pump/blob/main/Screens/MovePanel3.png">
 
 #### Start Position
 Moving the push element to the start position, which is user defined when adding a syringe to the list.
