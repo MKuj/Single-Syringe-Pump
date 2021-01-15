@@ -11,7 +11,7 @@ The application works only on computers with Windows system.
 ## Installation
 
 To run application and use Syringe Pump follow the steps:
-- Download ZIP and extract file.
+- Download [ZIP](https://github.com/MKuj/Single-Syringe-Pump/tree/main/Application) and extract file.
 - Open Ardiono IDE and connect your Arduino Leonardo board.
 - Open included Arduino file (.ino) and upload it on microcontroller. 
 - Run SyringeApp.exe
