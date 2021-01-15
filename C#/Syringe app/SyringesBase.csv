@@ -1,0 +1,4 @@
+﻿ID;Syringe name;Syringe volume [ml];Suringe length [step];Syringe start position [step]
+1;Custom 1 ml;1;36305,7325;21719,745
+2;Custom 5 ml;5;26751,5924;31847,134
+3;Custom 20 ml;20;40127,3885;17515,5924
