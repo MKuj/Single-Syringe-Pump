@@ -1,7 +1,7 @@
 # Open Source Syringe Pump App
 
 SyringePumpApp is a C# open source application to control a dedicated Arduino Leonardo based device.
-The whole process and the necessary parts to build the Syringe Pump device are described in our [publication](https://github.com/MKuj/Single-Syringe-Pump/edit/main/README.md)
+The whole process and the necessary parts to build the Syringe Pump device are described in our publication: "Low-cost, programmable infusion pump with bolus mode for in-vivo imaging".
 
 The application only works on computers operating with the Windows system.
 
